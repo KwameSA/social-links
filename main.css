@@ -59,7 +59,8 @@ body {
   margin-bottom: 2em;
 }
 .btnpress:hover {
-  color: hsl(209, 29%, 34%);
+  color: hsl(210, 33%, 5%);
+  background-color: rgb(66, 138, 114);
   cursor: pointer;
 }
 
